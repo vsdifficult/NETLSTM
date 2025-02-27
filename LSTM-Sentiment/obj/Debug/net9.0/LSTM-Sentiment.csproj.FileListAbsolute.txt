@@ -1,0 +1,6 @@
+C:\Users\Difficult\Documents\GitHub\NETLSTM\LSTM-Sentiment\obj\Debug\net9.0\LSTM-Sentiment.csproj.AssemblyReference.cache
+C:\Users\Difficult\Documents\GitHub\NETLSTM\LSTM-Sentiment\obj\Debug\net9.0\LSTM-Sentiment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Difficult\Documents\GitHub\NETLSTM\LSTM-Sentiment\obj\Debug\net9.0\LSTM-Sentiment.AssemblyInfoInputs.cache
+C:\Users\Difficult\Documents\GitHub\NETLSTM\LSTM-Sentiment\obj\Debug\net9.0\LSTM-Sentiment.AssemblyInfo.cs
+C:\Users\Difficult\Documents\GitHub\NETLSTM\LSTM-Sentiment\obj\Debug\net9.0\LSTM-Sentiment.csproj.CoreCompileInputs.cache
+C:\Users\Difficult\Documents\GitHub\NETLSTM\LSTM-Sentiment\obj\Debug\net9.0\LSTM-Sentiment.sourcelink.json
